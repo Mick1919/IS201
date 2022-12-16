@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(252, 235, 213);
+    background-color: rgb(165, 107, 32);
+}
+
+li {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color: rgb(211, 165, 255);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.wild {
+    font-family: fantasy;
+    color: rgb(105, 208, 2);
+    text-align: center;
+    font-size: 60px;
+}
+
+.wildish {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(92, 209, 92);
+    font-size: 40px;
+}
+
+.naturerocks {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 45px;
+}
+
+.special {
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-size: 30px;
+    text-align: justify;
+}
